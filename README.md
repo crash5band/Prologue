@@ -1,0 +1,1 @@
+Project for the Web Design Concepts course.
